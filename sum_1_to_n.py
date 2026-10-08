@@ -1,3 +1,4 @@
+# find sum of 1 to N numbers
 n = int(input("Enter n: "))
 
 total = 0
