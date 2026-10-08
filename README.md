@@ -26,3 +26,42 @@ What I am learning
 Goal
 
 Build strong Python fundamentals through daily practice.
+
+Day 3 – Python Loops
+
+Programs
+
+1. Print numbers from 1 to 10
+2. Multiplication table
+3. Sum of numbers from 1 to N
+
+Topics Learned
+
+- "for" loop
+- "range()"
+- "input()"
+- Variables
+- Accumulator concept
+
+Practice
+
+Today I practiced using loops to repeat instructions and solve simple mathematical problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
