@@ -46,6 +46,36 @@ Topics Learned
 Practice
 
 Today I practiced using loops to repeat instructions and solve simple mathematical problems.
+Day 4 - Python Practice 🐍
+
+Today I practiced Python programming and improved my problem-solving skills.
+
+Programs Completed
+
+1. Factorial of a Number
+2. Reverse a Number
+3. Armstrong Number
+
+Concepts Learned
+
+- "for" loops
+- "while" loops
+- Arithmetic operators
+- Modulus ("%") and integer division ("//")
+- Conditional statements
+- Number manipulation
+
+Sample Outputs
+
+- Factorial of 5 = 120
+- Reverse of 1234 = 4321
+- 153 is an Armstrong number
+
+Goal
+
+To strengthen my Python fundamentals and prepare for Data Structures and Algorithms (DSA).
+
+Day 4 completed! 🚀
 
 
 
