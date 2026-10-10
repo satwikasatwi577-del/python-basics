@@ -77,6 +77,30 @@ To strengthen my Python fundamentals and prepare for Data Structures and Algorit
 
 Day 4 completed! 🚀
 
+Day 5 — Number Programs
+
+Programs Completed
+
+1. "count_digits.py" — Counts the number of digits in an integer.
+2. "sum_of_digits.py" — Calculates the sum of the digits of a number.
+3. "prime_number.py" — Checks whether a number is prime.
+
+Concepts Learned
+
+- "while" loops
+- "if-else" statements
+- Arithmetic operators ("%", "//")
+- Variables and counters
+- Prime number logic
+- Basic problem-solving in Python
+
+Practice Summary
+
+- Wrote Python programs using IDLE.
+- Tested programs with different inputs.
+- Uploaded the Python files to GitHub.
+
+
 
 
 
